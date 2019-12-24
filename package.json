@@ -1,0 +1,11 @@
+{
+  "name": "switch",
+  "version": "1.0.0",
+  "description": "Switches database field names ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ben Grunfeld",
+  "license": "ISC"
+}
